@@ -225,6 +225,29 @@ footer nav a {
 
 .city {
     display: flex;
-    /* flex-flow: row nowrap; */
     flex-wrap: nowrap;
 }
+
+.about-text {
+    /* background-color: fuchsia; */
+    width: 100%
+    display: flex;
+    justify-content: center;
+    flex-wrap: row nowrap;
+    padding: 10px;
+    border-bottom: 1px dashed black;
+}
+
+.strat-img {
+    background-color: green;
+    width: 50%;
+    margin: 15px;
+    padding: 20px;
+}
+
+.strat-text {
+    display: flex;
+    width: 50%;
+
+}
+
