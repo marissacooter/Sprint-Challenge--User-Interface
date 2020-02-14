@@ -238,7 +238,15 @@ footer nav a {
     border-bottom: 1px dashed black;
 }
 
-.strat-img {
+.top-content {
+    background-color: lemonchiffon;
+    display: flex;
+    width: 100%;
+}
+
+
+
+/* .strat-img {
     background-color: green;
     width: 50%;
     margin: 15px;
@@ -249,5 +257,37 @@ footer nav a {
     display: flex;
     width: 50%;
 
+} */
+
+
+/* .strat {
+    background-color: green;
+    width: 50%;
+    padding: 10px;
+    margin: 10px;
 }
+
+.strat img {
+    margin: 10px;
+}
+
+.strat button {
+    background-color: lawngreen;
+    border: 2px solid black;
+    margin: 10px;
+}
+
+.work {
+    background-color: indianred;
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+    width: 50%;
+    /* align-content: flex-start; */
+}
+
+.work button {
+    background-color: greenyellow;
+    border: 2px solid black;
+    /* flex-wrap: wrap; */
+
 
