@@ -236,7 +236,6 @@ footer nav a {
 }
 
 .main-content {
-    background-color: lemonchiffon;
     display: flex;
     width: 100%;
     margin-top: 30px;
@@ -270,7 +269,7 @@ button {
 }
 
 footer {
-    background-color: magenta;
+    background-color: black;
 
 }
 
